@@ -1,0 +1,21 @@
+{
+  "name": "interview",
+  "version": "0.0.1",
+  "description": "interview docs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hankliu62/interview.git"
+  },
+  "keywords": [
+    "interview"
+  ],
+  "author": "hank.liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hankliu62/interview/issues"
+  },
+  "homepage": "https://github.com/hankliu62/interview#readme"
+}
